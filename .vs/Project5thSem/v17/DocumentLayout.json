@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Project5thSem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|d:\\project\\project5thsem\\project5thsem\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|D:\\Project\\Project5thSem\\project5thsem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|D:\\Project\\Project5thSem\\project5thsem\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|D:\\Project\\Project5thSem\\project5thsem\\mainpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\mainpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|D:\\Project\\Project5thSem\\project5thsem\\managesuggestions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\managesuggestions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|D:\\Project\\Project5thSem\\project5thsem\\managesuggestions.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAE34F1-3143-46E3-BCC7-B4DC91D39316}|Project5thSem\\Project5thSem.csproj|solutionrelative:project5thsem\\managesuggestions.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\Login.aspx",
+              "RelativeDocumentMoniker": "Project5thSem\\Login.aspx",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\Login.aspx",
+              "RelativeToolTip": "Project5thSem\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T01:23:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Project5thSem\\Register.aspx.cs",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\Register.aspx.cs",
+              "RelativeToolTip": "Project5thSem\\Register.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:41:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\Register.aspx",
+              "RelativeDocumentMoniker": "Project5thSem\\Register.aspx",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\Register.aspx",
+              "RelativeToolTip": "Project5thSem\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T17:20:20.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\MainPage.aspx.cs",
+              "RelativeDocumentMoniker": "Project5thSem\\MainPage.aspx.cs",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\MainPage.aspx.cs",
+              "RelativeToolTip": "Project5thSem\\MainPage.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:29:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageSuggestions.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\ManageSuggestions.aspx.cs",
+              "RelativeDocumentMoniker": "Project5thSem\\ManageSuggestions.aspx.cs",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\ManageSuggestions.aspx.cs",
+              "RelativeToolTip": "Project5thSem\\ManageSuggestions.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:15:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageSuggestions.aspx",
+              "DocumentMoniker": "D:\\Project\\Project5thSem\\Project5thSem\\ManageSuggestions.aspx",
+              "RelativeDocumentMoniker": "Project5thSem\\ManageSuggestions.aspx",
+              "ToolTip": "D:\\Project\\Project5thSem\\Project5thSem\\ManageSuggestions.aspx",
+              "RelativeToolTip": "Project5thSem\\ManageSuggestions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T15:16:24.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
